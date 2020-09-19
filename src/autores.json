@@ -1,0 +1,17 @@
+[
+    {
+        "nome": "Paulo",
+        "livro": "React",
+        "preco": 1000
+    },
+    {
+        "nome": "Daniel",
+        "livro": "Java",
+        "preco": 99
+    },
+    {
+        "nome": "Marcos",
+        "livro": "Go",
+        "preco": 150
+    }
+]
